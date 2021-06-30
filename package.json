@@ -1,0 +1,28 @@
+{
+  "name": "command-line-rpg",
+  "version": "1.0.0",
+  "description": "rpg game with oop",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/troygrossi/command-line-RPG.git"
+  },
+  "keywords": [
+    "rpg",
+    "oop",
+    "command",
+    "line"
+  ],
+  "author": "Troy Grossi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/troygrossi/command-line-RPG/issues"
+  },
+  "homepage": "https://github.com/troygrossi/command-line-RPG#readme",
+  "devDependencies": {
+    "jest": "^27.0.6"
+  }
+}
